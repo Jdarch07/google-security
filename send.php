@@ -19,4 +19,3 @@
          }else {
             echo "Message could not be sent...404 error check your internet";
          }
-      ?>
